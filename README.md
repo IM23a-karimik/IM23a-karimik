@@ -7,5 +7,5 @@
 </a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hW4sWQR5WUpZNiVU62/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMya2xuejNreXdveHJjYW92N3Y0aTYycHlla3V1cDcyd3h0ZjB6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tZqQgnb4a9eYSVNOvY/giphy.gif"/>
 </p>
